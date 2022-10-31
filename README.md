@@ -1,2 +1,2 @@
 # deeplink
-[OpenDeeplink](meli://paymentcreditcard/dummy-feature)
+[OpenDeeplink]("meli://paymentcreditcard/dummy-feature")
